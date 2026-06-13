@@ -1,3 +1,9 @@
 __pycache__
 .env
-.learn
+.learndata/raw/
+data/processed/
+*.zip
+
+data/raw/
+data/processed/
+*.zip
